@@ -1,0 +1,17 @@
+
+
+Mobile Pass mail:
+
+Hello,
+
+This is to inform you that MobilePASS has been activated based on the request you have submitted. It may take up to 6 hours for synchronization so please wait before you can start using it. Also, please note that although MobilePASS activation is done, you may still need to install it on your machine. To install it on your laptop/desktop, use the following software center link by opening it in your browser: 
+
+softwarecenter:SoftwareID=ScopeId_0A157B56-4D7E-4D94-BADD-90ED782FAD77/Application_8d891320-f064-44c6-97e4-8b7ed54cd157
+
+Please download it from Software Center and follow the steps in the attached document to enroll the same. In case you face any issues with installation, please raise a ticket under relevant category.
+Note that the requests under this category are automated hence only activation requests would be handled. For any other issue, please raise a ticket under the appropriate category.
+Regards,
+Global Service Desk
+
+Email Attachment : User_Guide_for_MobilePass_Installation.docx (see attachment )
+*******************************************************************************************************************************************************************
